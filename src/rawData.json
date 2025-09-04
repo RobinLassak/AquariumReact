@@ -1,0 +1,19 @@
+{
+  "ryby": [
+    {
+      "id": 1,
+      "name": "Pepa",
+      "size": "mala"
+    },
+    {
+      "id": 2,
+      "name": "Karel",
+      "size": "velka"
+    },
+    {
+      "id": 3,
+      "name": "Franta",
+      "size": "mala"
+    }
+  ]
+}
